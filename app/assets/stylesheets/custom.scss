@@ -82,6 +82,35 @@ ul.nav.navbar-nav.navbar-right >li > a {
 }
 
 
+/* body */
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.btn-primary {
+  width: 100%;
+}
+
+.checkbox {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  span {
+    font-weight: normal;
+  }
+}
+
+#top-main-title {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.form-control {
+  margin-bottom: 5px;
+}
+
+
 /* デバッグウインドウ */
 
 .debug_dump {
